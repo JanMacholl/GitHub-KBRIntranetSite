@@ -58,3 +58,28 @@ li a:hover {
   90% { transform: translate(1px, 2px) rotate(0deg); }
   100% { transform: translate(1px, -2px) rotate(-1deg); }
 }
+
+
+
+
+
+footer {
+	position: fixed;
+	bottom: 0;
+	left:  80px;
+	display: block;
+	margin-bottom: 20px;
+}
+
+
+footer.datenschutz {
+	float: right;
+	
+}
+
+footer.impressum {
+	float: right;
+}
+
+
+
